@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SiphoSelabe
 - 👀 I’m interested in ...
-fullstack web development in php, mysql, html, css and js in a linux environment.
-software development in C and JAVA
+fullstack web development in php, python, mysql, html, css and js in a linux environment.
+software development in Python and JAVA
 - 🌱 I’m currently learning ...
 Operating System development
 - 💞️ I’m looking to collaborate on ...
